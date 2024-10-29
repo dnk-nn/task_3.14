@@ -26,7 +26,7 @@ GIT logo by Jason Long - https://git-scm.com/downloads/logos, license: [CC BY 3.
 
 |Команда|Краткое описание выполняемых действий|
 |-|-|
-|[GIT REMOTE ADD ](./git_remote_add.md)|Связывание локального и удаленного репозиториев|
+|[GIT REMOTE ADD](./git_remote_add.md)|Связывание локального и удаленного репозиториев|
 |[GIT FETCH](./git_fetch.md)|Получение изменений с удаленного репозитория|
 |[GIT MERGE](./git_merge.md)|Слияние удаленного и локального репозиториев|
 |[GIT PULL](./git_pull.md)|Получение изменений с удаленного репозитория и слияние с локальным репозиторием|

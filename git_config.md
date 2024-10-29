@@ -33,6 +33,7 @@ git config --global user.email
 Данные команды вводятся последовательно. После каждой команды выводится имя пользователя и адрес элекронной почты соответственно.
 
 ![git config --global user.name](/assets/git-config-user-name.png)
+
 ![git config --global user.email](/assets/git-config-user-email.png)
 
 #### Способ №2
